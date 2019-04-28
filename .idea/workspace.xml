@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cb6bf85-fc73-4b81-a970-a696fc01e470" name="Default Changelist" comment="" />
+    <list default="true" id="8cb6bf85-fc73-4b81-a970-a696fc01e470" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gshop-client_final/src/mock/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/gshop-client_final/src/mock/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gshop-client_final/src/pages/Login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/gshop-client_final/src/pages/Login/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gshop-client_final/src/pages/Profile/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/gshop-client_final/src/pages/Profile/Profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gshop-client_pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gshop-client_pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gshop-server_final/data/shops.json" beforeDir="false" afterPath="$PROJECT_DIR$/gshop-server_final/data/shops.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/gshop-client_blank/node_modules/" />
     <ignored path="$PROJECT_DIR$/gshop-client_final/node_modules/" />
     <ignored path="$PROJECT_DIR$/gshop-server_final/node_modules/" />
@@ -40,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gshop-client_final/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="304">
+              <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
               <folding>
                 <element signature="e#131#162#0" expanded="true" />
               </folding>
@@ -110,10 +117,14 @@
       <find>广州</find>
       <find>11</find>
       <find>qqq</find>
+      <find>硅谷</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -122,13 +133,19 @@
         <option value="$PROJECT_DIR$/gshop-client_final/src/store/state.js" />
         <option value="$PROJECT_DIR$/gshop-client_final/src/pages/Shop/ShopGoods/ShopGoods.vue" />
         <option value="$PROJECT_DIR$/gshop-client_final/src/App.vue" />
-        <option value="$PROJECT_DIR$/gshop-server_final/data/shops.json" />
-        <option value="$PROJECT_DIR$/gshop-client_final/src/mock/data.json" />
         <option value="$PROJECT_DIR$/gshop-server_final/data/index_category.json" />
         <option value="$PROJECT_DIR$/gshop-client_final/src/pages/MSite/MSite.vue" />
         <option value="$PROJECT_DIR$/gshop-client_final/src/store/actions.js" />
         <option value="$PROJECT_DIR$/gshop-client_final/src/store/mutations.js" />
         <option value="$PROJECT_DIR$/gshop-client_final/src/store/mutation-types.js" />
+        <option value="$PROJECT_DIR$/gshop-client_final/src/mock/data.json" />
+        <option value="$PROJECT_DIR$/gshop-server_final/data/shops.json" />
+        <option value="$PROJECT_DIR$/gshop-client_final/dist/static/js/app.4d3ce014f021a03040f2.js.map" />
+        <option value="$PROJECT_DIR$/gshop-client_final/src/pages/Profile/Profile.vue" />
+        <option value="$PROJECT_DIR$/gshop-client_final/src/pages/Login/Login.vue" />
+        <option value="$PROJECT_DIR$/gshop-client_final/dist/static/js/app.4d3ce014f021a03040f2.js" />
+        <option value="$PROJECT_DIR$/gshop-client_final/dist/static/js/2.3200d6663e1c3a1af8be.js.map" />
+        <option value="$PROJECT_DIR$/gshop-client_pages/index.html" />
       </list>
     </option>
   </component>
@@ -138,112 +155,13 @@
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-client_final" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-server_final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="gshop-server_final" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -286,11 +204,12 @@
       <workItem from="1556379739627" duration="116000" />
       <workItem from="1556420826717" duration="1476000" />
       <workItem from="1556422608728" duration="383000" />
+      <workItem from="1556426598195" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11897000" />
+    <option name="totallyTimeSpent" value="12327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -513,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gshop-client_final/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="304">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding>
             <element signature="e#131#162#0" expanded="true" />
           </folding>
